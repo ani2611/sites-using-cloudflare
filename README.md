@@ -1090,6 +1090,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [sitedeals.nl](http://sitedeals.nl)
 - [sitetalk.com](http://sitetalk.com)
 - [siyahgazete.com](http://siyahgazete.com)
+- [skcamera.com/](https://skcamera.com/)
 - [skidrowcrack.com](http://skidrowcrack.com)
 - [skidrowgames.net](http://skidrowgames.net)
 - [skladchik.com](http://skladchik.com)
